@@ -4,7 +4,7 @@
 - I've created my own Linux distribution from scratch available at hhtps//avouch.org
 - 🌱 I’m currently learning new dimensions.
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 You can reaxh me on Github.
+- 📫 You can reach me on Github.
 
 <!---
 qurbanullah/qurbanullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
