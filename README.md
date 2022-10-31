@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qurbanullah
 - I’m an Operating System Developer (Linux)
-- I've created Linux distribution from scratch available at https//avouch.org
+- I've created Linux distribution from scratch available at [Avouch Linux](https://avouch.org/)
 - 👀 I’m a Full Stack Web Developer (Laravel)
 - 🌱 I’m currently learning new dimensions.
 - 💞️ I’m looking to collaborate on Web Development Projects
